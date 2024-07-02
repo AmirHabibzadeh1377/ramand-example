@@ -1,0 +1,15 @@
+C:\Users\Reza\source\repos\Ramand_Example\Ramand_Application\bin\Debug\net8.0\Ramand_Application.deps.json
+C:\Users\Reza\source\repos\Ramand_Example\Ramand_Application\bin\Debug\net8.0\Ramand_Application.dll
+C:\Users\Reza\source\repos\Ramand_Example\Ramand_Application\bin\Debug\net8.0\Ramand_Application.pdb
+C:\Users\Reza\source\repos\Ramand_Example\Ramand_Application\obj\Debug\net8.0\Ramand_Application.csproj.AssemblyReference.cache
+C:\Users\Reza\source\repos\Ramand_Example\Ramand_Application\obj\Debug\net8.0\Ramand_Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reza\source\repos\Ramand_Example\Ramand_Application\obj\Debug\net8.0\Ramand_Application.AssemblyInfoInputs.cache
+C:\Users\Reza\source\repos\Ramand_Example\Ramand_Application\obj\Debug\net8.0\Ramand_Application.AssemblyInfo.cs
+C:\Users\Reza\source\repos\Ramand_Example\Ramand_Application\obj\Debug\net8.0\Ramand_Application.csproj.CoreCompileInputs.cache
+C:\Users\Reza\source\repos\Ramand_Example\Ramand_Application\obj\Debug\net8.0\Ramand_Application.dll
+C:\Users\Reza\source\repos\Ramand_Example\Ramand_Application\obj\Debug\net8.0\refint\Ramand_Application.dll
+C:\Users\Reza\source\repos\Ramand_Example\Ramand_Application\obj\Debug\net8.0\Ramand_Application.pdb
+C:\Users\Reza\source\repos\Ramand_Example\Ramand_Application\obj\Debug\net8.0\ref\Ramand_Application.dll
+C:\Users\Reza\source\repos\Ramand_Example\Ramand_Application\bin\Debug\net8.0\Ramand_Domain.dll
+C:\Users\Reza\source\repos\Ramand_Example\Ramand_Application\bin\Debug\net8.0\Ramand_Domain.pdb
+C:\Users\Reza\source\repos\Ramand_Example\Ramand_Application\obj\Debug\net8.0\Ramand_A.D61BCAB7.Up2Date

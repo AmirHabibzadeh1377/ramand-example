@@ -1,0 +1,11 @@
+C:\Users\Reza\source\repos\Ramand_Example\Ramand_Domain\bin\Debug\net8.0\Ramand_Domain.deps.json
+C:\Users\Reza\source\repos\Ramand_Example\Ramand_Domain\bin\Debug\net8.0\Ramand_Domain.dll
+C:\Users\Reza\source\repos\Ramand_Example\Ramand_Domain\bin\Debug\net8.0\Ramand_Domain.pdb
+C:\Users\Reza\source\repos\Ramand_Example\Ramand_Domain\obj\Debug\net8.0\Ramand_Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Reza\source\repos\Ramand_Example\Ramand_Domain\obj\Debug\net8.0\Ramand_Domain.AssemblyInfoInputs.cache
+C:\Users\Reza\source\repos\Ramand_Example\Ramand_Domain\obj\Debug\net8.0\Ramand_Domain.AssemblyInfo.cs
+C:\Users\Reza\source\repos\Ramand_Example\Ramand_Domain\obj\Debug\net8.0\Ramand_Domain.csproj.CoreCompileInputs.cache
+C:\Users\Reza\source\repos\Ramand_Example\Ramand_Domain\obj\Debug\net8.0\Ramand_Domain.dll
+C:\Users\Reza\source\repos\Ramand_Example\Ramand_Domain\obj\Debug\net8.0\refint\Ramand_Domain.dll
+C:\Users\Reza\source\repos\Ramand_Example\Ramand_Domain\obj\Debug\net8.0\Ramand_Domain.pdb
+C:\Users\Reza\source\repos\Ramand_Example\Ramand_Domain\obj\Debug\net8.0\ref\Ramand_Domain.dll
